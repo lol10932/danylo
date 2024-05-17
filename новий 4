@@ -1,30 +1,34 @@
-<!Doctype html><html>
-<head>
-</head>
+<!Doktypehtml>
+<html>
+<head> </head>
+<style>
+img {
+width:300px;
+height:300px;
+}
+.x{
+text-align:center;
+color:red;
+}
+
+
+</style>
 <body>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxg_Pja9ofrO31balWmDNcLq0NkhIVeUOZsn13tWwqg&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gYo3Zmh0LZ18AGWK2iK7oTgomBTInnikdFZFrx-CEg&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OzfFqnm4G0lH_xVd0Gho27hIrohzt04STOgeW6DHQg&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtGy5zhOJvEhArGRP1R-N0T5BDEO6pL3gYZDx2QUUf7g&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpoHCK0ui9Sr74mU_mkW0LRrLbDnjIN2CMYlQwrBLNA&s">
-<img src="https://prbmoto.shop/image/cache/catalog/product/gleon/125red/img_2689-redakt-1000x1000.jpg">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdtS4ra_SZUt_BIkKB-7gUUim35P42ByLMSAPq-UTvzw&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4UhuzIVsu-mP7Mbz6l1jyYvPLp6y1mOBEgDWYqtJpQ&s">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWmJLBT0dDNWBXmiNOeRKwjyvFLSHpF-M5eJJrxDkIQ&s">
-<img src="https://images.prom.ua/3823458221_w640_h640_mototsikl-pitbajk-kayo.jpg">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frozetka.com.ua%2Fua%2F325900117%2Fp325900117%2F&psig=AOvVaw34GugfswVHyLDp6JIyM0AW&ust=1715500171356000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD036aOhYYDFQAAAAAdAAAAABBp">
+<h1 CLASS="x"> MOTOTEK </h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxg_Pja9ofrO31balWmDNcLq0NkhIVeUOZsn13tWwqg&s"><a href="#"><p> 1000$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gYo3Zmh0LZ18AGWK2iK7oTgomBTInnikdFZFrx-CEg&s"><a href="#"><p> 1000$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OzfFqnm4G0lH_xVd0Gho27hIrohzt04STOgeW6DHQg&s"><a href="#"><p> 1000$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtGy5zhOJvEhArGRP1R-N0T5BDEO6pL3gYZDx2QUUf7g&s"><a href="#"><p> 1000$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpoHCK0ui9Sr74mU_mkW0LRrLbDnjIN2CMYlQwrBLNA&s"><a href="#"><p> 1000$ </p>
+<img src="https://prbmoto.shop/image/cache/catalog/product/gleon/125red/img_2689-redakt-1000x1000.jpg"><a href="#"><p> 1000$ </p>
+<img src="https://geon.ua/wp-content/uploads/2017/09/GEON-X-Ride-Cross-150.jpg"><a href="#"><p> 1000$ </p>
+<img src="https://motomarket.in.ua/image/cache/catalog/products/motocycles/KoviPiT150X/KOVI%20PiT150X%20(4)-1000x1000.jpg"><a href="#"><p> 1000$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWmJLBT0dDNWBXmiNOeRKwjyvFLSHpF-M5eJJrxDkIQ&s"><a href="#"><p> 1000$ </p>
+<img src="https://images.prom.ua/3823458221_w640_h640_mototsikl-pitbajk-kayo.jpg"><a href="#"><p> 1000$ </p>
+<img src="https://motozona.com.ua/content/uploads/images/thumb_foto-geon-x-ride-190-enduro-pro.jpg"><a href="#"><p> 1000$ </p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-</html>
+ 
 </body>
+</html>
