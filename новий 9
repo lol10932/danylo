@@ -1,1 +1,35 @@
+<!Doktypehtml>
+<html>
+<head> </head>
+<style>
+img {
+width:300px;
+height:300px;
+}
+.x{
+text-align:center;
+color:red;
+}
 
+</style>
+<body>
+<h1 CLASS="x"> MOTOTEK </h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZAZDYYTBWP4fbl786l8qzFq2_kJKx2CUg5I1sIXXUA&s"><a href="#"><p> 500 </p>
+<img src="https://images.prom.ua/4596707244_w640_h640_moto-perchatki-s.jpg"><a href="#"><p> 600 </p>
+<img src="https://content2.rozetka.com.ua/goods/images/big/264281667.jpg"><a href="#"><p> 550 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsE3fdtzNH30t5GqHi8DWlxi6qnRsIRjzVsZK7LsCQA&s"><a href="#"><p> 650 </p>
+<img src="https://golden-key.dp.ua/image/cache/catalog/New-image/new-img1/xapecs-velosipednij-zamok-tros-84-150-1-400x400.jpg.pagespeed.ic.dhgWwP5ngS.jpg"><a href="#"><p> 200 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQDiiF7X8umuNAaTb2PjBtYYqo5m4IN_tGFRxp9I1bg&s"><a href="#"><p> 1100 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fj6yZcgTG1uWAZHyZb4ybkhB_ocszf7CHLP5qrIGxg&s"><a href="#"><p> 300 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmpLqbQg0qgu6IUIOtL300VWPh25yVnJwgqv5p8jidw&s"><a href="#"><p> 500 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xDiJXZ2jkLEfpvaX8HfItq8mHLaOFJaOvY4QUgUkRg&s"><a href="#"><p> 600 </p>
+<img src="https://5w40.kiev.ua/image/cache/data/CASTROL/motomasla/P1%204T%2010W-40-500x500.jpg"><a href="#"><p> 500 </p>
+<img src="https://images.prom.ua/597286883_w600_h600_597286883.jpg"><a href="#"><p> 550 </p>
+<img src="https://motostyle.ua/image/cache/data/shlem/product/13673/motornoe-maslo-motul-5000-4t-10w-40-1l-450x450.jpg"><a href="#"><p> 800 </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy3_4gJbLSpvACCXl9qCk326qwb1qoA-cUJ02c6Yopg&s"><a href="#"><p> 700 </p>
+<img src="https://images.prom.ua/3428828589_w640_h640_3428828589.jpg"><a href="#"><p> 1200 </p>
+<img src="https://content2.rozetka.com.ua/goods/images/big/261653687.jpg"><a href="#"><p> 1100 </p>
+<img src="https://www.mybike.ua/media/mf_webp/jpg/media/catalog/product/cache/ac0cb3fba5b11eb6e8f5698fe188e500/s/h/shlem-leatt-helmet-moto-2-5-foto-1_12.webp"><a href="#"><p> 1300 </p>
+<img src="https://promoto.ua/image/cache/data/img/manufacture/0/3/moto-shlem-detckii-fox-yth-v1-costa-ece-orange-04524-009-l-4103-1024x768.jpeg"><a href="#"><p> 1500 </p>
+</body>
+</html>
