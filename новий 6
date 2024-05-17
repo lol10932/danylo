@@ -1,1 +1,30 @@
+<!Doktypehtml>
+<html>
+<head> </head>
+<style>
+img {
+width:300px;
+height:300px;
+}
+.x{
+text-align:center;
+color:red;
+}
 
+</style>
+<body>
+
+<h1 CLASS="x"> MOTOTEK </h1>
+<img src="https://images.prom.ua/2296376799_w600_h600_2296376799.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://images.prom.ua/2785515689_w640_h640_dorozhnyj-mototsikl-lifan.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://mototek.com.ua/components/com_jshopping/files/img_products/thumb_FORTE_FT200R__2_.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://images.prom.ua/4299565584_w600_h600_4299565584.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://mototek.com.ua/components/com_jshopping/files/img_products/thumb_bajaj-boxer-150x-photo__2_.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://mototek.com.ua/components/com_jshopping/files/img_products/thumb_spark-sp200r-17__2_.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://mototek.com.ua/components/com_jshopping/files/img_products/thumb_forte-ft250-x6__2_.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTQmiCjl5iWpETW0bdb_DkcPdtefqWG6Outo5BMf4fQ&s"><a href="#"><p> 1200$ </p>
+<img src="https://images.prom.ua/2426545579_w600_h600_2426545579.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://exdrive.com.ua/wp-content/uploads/2021/03/loncin_jl_200.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://mototek.com.ua/components/com_jshopping/files/img_products/thumb_spark-sp200r-29__17_.jpg"><a href="#"><p> 1200$ </p>
+</body>
+</html>
