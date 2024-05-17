@@ -1,1 +1,30 @@
+<!Doktypehtml>
+<html>
+<head> </head>
+<style>
+img {
+width:300px;
+height:300px;
+}
+.x{
+text-align:center;
+color:red;
+}
 
+</style>
+<body>
+<h1 CLASS="x"> MOTOTEK </h1>
+<img src="https://spark-moto.com/image/cache/catalog/kvadrocycle/sp200-1-camo/sp200-1-black-3-1000x1000.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://images.prom.ua/3248313210_kvadrotsikl-atv-orix.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllROUQs-BRgJyOrboRumyj7CVl9p2YdNt-zxs6yvq1g&s"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlLSpSgKU0UdNA6Zxu5xZWsuRGYLRPKe6VlJKbCrZ9w&s"><a href="#"><p> 1200$ </p>
+<img src="https://motoart.kharkov.ua/wp-content/uploads/2023/01/3-1.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9GaP24BR4GR-vpKi1EDk__HQbgAygYjQ4cCryROONw&s"><a href="#"><p> 1200$ </p>
+<img src="https://images.prom.ua/4490596157_w600_h600_4490596157.jpg"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjSfNEny0LHGpnOpj_TXE7ta2Fxfu2TYUYwqnHQ42uw&s"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQrHMeka4F_hiV9KHPmTEGMOaruhYku54BICLP3U-uA&s"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0uuQviBzh-0H22L1zCk90oCZ57g84J-131GaPeXzgw&s"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMjMSs8bPm-A3Mg6RSozGsNSdYprULzV_P1raZquP_w&s"><a href="#"><p> 1200$ </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXL-py7BqKo8gnp9wcnE6VmtWoXpZNY8OikkaQPVK5A&s"><a href="#"><p> 1200$ </p>
+</body>
+</html>
